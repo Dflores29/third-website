@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+    color: white;
+}
+h1{
+    color: blue;
+}
+p{
+    color: lightpink;
+}
+
+img{border-radius: 50%;}
