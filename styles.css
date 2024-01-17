@@ -9,4 +9,20 @@ p{
     color: lightpink;
 }
 
-img{border-radius: 50%;}
+img{border-radius: 50%;
+}
+
+#special{
+    color: #663399;
+    background-color: beige;
+}
+
+#special2{
+    color: #FA8072;
+    background-color: bisque;
+}
+
+#special3{
+    color: #A0522D;
+    background: #F5DEB3;
+}
